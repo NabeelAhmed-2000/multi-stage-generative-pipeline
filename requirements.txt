@@ -1,0 +1,27 @@
+# Core Framework
+torch
+torchvision
+
+# Hugging Face Libraries for Diffusion & Transformers
+diffusers
+transformers
+accelerate
+
+# OpenAI's CLIP
+openai-clip
+
+# StyleGAN2 Dependencies & Utilities
+click
+requests
+tqdm
+pyspng
+ninja
+imageio-ffmpeg==0.4.3
+gdown
+
+# General Utilities
+numpy
+matplotlib
+Pillow
+imageio
+scipy
