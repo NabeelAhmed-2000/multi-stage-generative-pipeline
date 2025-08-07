@@ -93,8 +93,8 @@ This image explores the effect of manipulating a single semantic vector ("age") 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-project-name.git](https://github.com/your-username/your-project-name.git)
-    cd your-project-name
+    git clone https://github.com/NabeelAhmed-2000/multi-stage-generative-pipeline.git
+    cd multi-stage-generative-pipeline
     ```
 2.  **Set up the environment:**
     *It is recommended to use a virtual environment.*
