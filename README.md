@@ -51,9 +51,9 @@ This section showcases the visual results of the project, from the foundational 
 
 The core success of the project is its ability to generate high-resolution faces from text prompts and then enhance them using a Diffusion model. This table demonstrates the clear improvement in detail and realism after the refinement step.
 
-| Prompt                            | StyleGAN+CLIP Output                                             | Final Diffusion Output                                           |
-| :-------------------------------- | :--------------------------------------------------------------- | :--------------------------------------------------------------- |
-| "A photo of a man yelling with anger"   | ![A man yelling with anger before refinement](images/yelling_before.png)   | ![A man yelling with anger after refinement](images/yelling_after.png)     |
+| <div align="center">Prompt</div> | <div align="center">StyleGAN+CLIP Output</div> | <div align="center">Final Diffusion Output</div> |
+| :---: | :---: | :---: |
+| "A photo of a man yelling with anger" | <div align="center"><img src="images/yelling_before.png" alt="A man yelling with anger before refinement" width="256"></div> | <div align="center"><img src="images/yelling_after.png" alt="A man yelling with anger after refinement" width="256"></div> |
 
 ---
 
