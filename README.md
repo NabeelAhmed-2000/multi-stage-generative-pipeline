@@ -1,4 +1,4 @@
-# Latent Space-Driven Face Generation with CLIP and Diffusion
+# Multi-Stage Generative AI Pipeline for Facial Synthesis
 
 A deep learning project that generates high-resolution, text-described faces by orchestrating a self-trained DCGAN, a pre-trained StyleGAN2, OpenAI's CLIP, and a Diffusion-based refiner.
 
@@ -115,7 +115,7 @@ This image explores the effect of manipulating a single semantic vector ("age") 
         * **OpenAI CLIP (ViT-B/32):** The "Vision Transformer" variant of CLIP is used as the multi-modal compass to understand both text prompts and images, guiding the StyleGAN's latent space optimization.
             * *Reference Link:* [OpenAI CLIP Repository](https://github.com/openai/CLIP)
         * **Stable Diffusion (v1.5):** The `runwayml/stable-diffusion-v1-5` model is used in an image-to-image pipeline as the final refinement step to enhance the details and realism of the generated faces.
-            * *Reference Link:* [Stable Diffusion v1.5 Model Card](https://huggingface.co/runwayml/stable-diffusion-v1-5)
+            * *Reference Link:* [Stable Diffusion v1.5 Model Card](https://huggingface.co/CompVis/stable-diffusion-v1-4)
       
 5.  **Run the Notebooks:**
     The project is split into two notebooks located in the `/code` directory:
