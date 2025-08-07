@@ -107,7 +107,7 @@ This image explores the effect of manipulating a single semantic vector ("age") 
     * **Custom DCGAN Model (Manual Download Required):**
         * **File:** `dcgan_epoch_15.pth`
         * **Description:** This is the DCGAN model trained for 15 epochs on the CelebA dataset as part of the first notebook (`DCGAN_Train.ipynb`). It is used to provide the initial style influence in the main pipeline.
-        * **Download:** [dcgan_epoch_15.pth] (https://drive.google.com/file/d/1aP2roQO3suEnJGNbzRF6QMPpuYF8MxZM/view?usp=sharing)
+        * **Download:** [dcgan_epoch_15.pth](https://drive.google.com/file/d/1aP2roQO3suEnJGNbzRF6QMPpuYF8MxZM/view?usp=sharing)
 
     * **Pre-trained Models (Downloaded Automatically by Notebook):**
         * **StyleGAN2-ADA (FFHQ 256px):** A powerful, pre-trained StyleGAN2 model from NVIDIA, trained on the FFHQ dataset at 256x256 resolution. This serves as the primary high-resolution face generator.
